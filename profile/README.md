@@ -33,9 +33,6 @@
 
 ## 🔈Recent updates🔈
 ### 2024.6.21 - OnePassPlus APP has entered the testing phase
-#### latest_one_pass_plus_version:v1.1.4_2024-06-26-19-07.apk
-
-
 
 
 
